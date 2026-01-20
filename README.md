@@ -63,14 +63,6 @@ I'm a passionate developer who loves building innovative solutions and contribut
   
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=5tea1th&theme=tokyonight&no-frame=true&row=1&column=7)
-  
-</div>
-
 ## 📈 Contribution Graph
 
 [![Your activity graph](https://github-readme-activity-graph.vercel.app/graph?username=5tea1th&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -101,7 +93,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=5tea1th&color=blueviolet&style=flat-square)
   
   **⭐️ From Arunabh Gupta(https://github.com/5tea1th)**
   
