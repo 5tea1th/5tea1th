@@ -55,11 +55,11 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
   
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=5tea1th&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5tea1th&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=5tea1th&theme=tokyonight&hide_border=true)
   
 </div>
 
@@ -67,13 +67,13 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=5tea1th&theme=tokyonight&no-frame=true&row=1&column=7)
   
 </div>
 
 ## 📈 Contribution Graph
 
-[![Your activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Your activity graph](https://github-readme-activity-graph.vercel.app/graph?username=5tea1th&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔗 Connect with Me
 
